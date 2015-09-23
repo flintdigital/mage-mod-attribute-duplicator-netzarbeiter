@@ -1,8 +1,0 @@
-#
-# Netzarbeiter_AttributeDuplicator modman file
-#
-
-app/etc/modules/Netzarbeiter_AttributeDuplicator.xml app/etc/modules/Netzarbeiter_AttributeDuplicator.xml
-app/code/community/Netzarbeiter/AttributeDuplicator app/code/community/Netzarbeiter/AttributeDuplicator
-
-app/locale/de_DE/Netzarbeiter_AttributeDuplicator.csv app/locale/de_DE/Netzarbeiter_AttributeDuplicator.csv
